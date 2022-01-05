@@ -1,4 +1,4 @@
-# Project-HTML5-Formul-rio_Web
+# Pojeto Formulário Web
 
 ## Formulário desenvolvido em Html e css 
  - Tags utilizadas nesta aplicação foram:
